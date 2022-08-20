@@ -2,7 +2,7 @@
 A detailed Sales Analysis Dashboard project with Power Bi.  
 
 ## Features
-- 1. Tree Page Dashboard
+- 1. Three Page Dashboard
 - 2. Webview
 - 3. Mobile View
 - 4. MySql is used as data scource
